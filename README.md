@@ -1,5 +1,6 @@
 # a_linked_list
-building a linked list console app - just my attempt at making a linked list with various functionalities of... a linked list?
+building a linked list console app - just my attempt at making a linked list.
+Has some bugs.
 
 functionality:
 add, delete, print, quit
